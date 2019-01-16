@@ -1,12 +1,12 @@
 # swift-driver
-Simple racing game made with Python and Arcade.
+Short racing game made with Python and Arcade.
 
 ### Prerequisites
 
 
-&middot; Python 3.x
+- Python 3.x
 
-&middot; Arcade
+- Arcade
 
 ### How to run
 
